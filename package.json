@@ -11,7 +11,7 @@
     "expo-linear-gradient": "^4.0.0",
     "galio-framework": "^0.5.0",
     "react": "16.5.0",
-    "react-native": "https://github.com/expo/react-native/archive/sdk-32.0.0.tar.gz",
+    "react-native": "0.60.0",
     "react-native-elements": "^1.1.0",
     "react-native-linear-gradient": "^2.5.4",
     "react-navigation": "^3.5.1"
